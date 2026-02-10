@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Privacy Policy - GoodGoods</title>
+<style>
+body { font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px; line-height: 1.6; }
+h1 { text-align: center; }
+a { color: #ff9900; }
+</style>
+</head>
+<body>
+
+<h1>Privacy Policy</h1>
+
+<p>GoodGoods respects your privacy. We do not collect personal information from visitors unless explicitly provided. This website uses Amazon affiliate links, which means we may earn a small commission if you make a purchase via our links, at no extra cost to you.</p>
+
+<p>We do not sell, share, or store any personal information from visitors. For questions, contact us at <a href="mailto:youremail@example.com">youremail@example.com</a>.</p>
+
+<p><a href="index.html">← Back to Home</a></p>
+
+</body>
+</html>
